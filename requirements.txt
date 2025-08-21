@@ -1,4 +1,12 @@
-# Ultra-minimal requirements for Render deployment
+# Minimal requirements for Render deployment
+streamlit
+pandas
+numpy
+sentence-transformers
+scikit-learn
+beautifulsoup4
+requests
+nltk# Ultra-minimal requirements for Render deployment
 streamlit
 pandas
 numpy
